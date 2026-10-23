@@ -19,3 +19,5 @@ This repository is a disposable sandbox for rehearsing the release-day routine e
 6. Notifications for this repository are set to ignore.
 
 > This repository is intentionally disposable. It exists for the demo and can be deleted after the onboarding session.
+
+Rehearsal checkpoint: this line landed on the default branch after PR #1 opened, so the PR branch is now stale.
